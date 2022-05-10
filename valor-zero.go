@@ -24,7 +24,7 @@ var d bool
 func main() {
 	//x = 10 //Inicialização e atribuição de valor da variavel
 	//x = 20 //Apenas atribuição de valor da variavel
-	x := 10
+	//x := 10
 	//Abaixo print de variaveis declaradas porém não inicializadas.
 	fmt.Printf("%v, %T\n", a, a)
 	fmt.Printf("%v, %T\n", b, b)
